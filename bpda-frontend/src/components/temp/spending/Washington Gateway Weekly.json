@@ -1,0 +1,320 @@
+{
+    "spending": [
+        {
+            "Row Labels": "02\/02\/2020",
+            "Change in In-Person Mastercard Spending": 0.008363992572888002
+        },
+        {
+            "Row Labels": "02\/09\/2020",
+            "Change in In-Person Mastercard Spending": 0.026573712930541227
+        },
+        {
+            "Row Labels": "02\/16\/2020",
+            "Change in In-Person Mastercard Spending": 0.0160841532446081
+        },
+        {
+            "Row Labels": "02\/23\/2020",
+            "Change in In-Person Mastercard Spending": 0.06842133097083725
+        },
+        {
+            "Row Labels": "03\/01\/2020",
+            "Change in In-Person Mastercard Spending": 0.19158098818250768
+        },
+        {
+            "Row Labels": "03\/08\/2020",
+            "Change in In-Person Mastercard Spending": 0.19820076396210418
+        },
+        {
+            "Row Labels": "03\/15\/2020",
+            "Change in In-Person Mastercard Spending": -0.21197304154049978
+        },
+        {
+            "Row Labels": "03\/22\/2020",
+            "Change in In-Person Mastercard Spending": -0.46383891684864864
+        },
+        {
+            "Row Labels": "03\/29\/2020",
+            "Change in In-Person Mastercard Spending": -0.4166388093330877
+        },
+        {
+            "Row Labels": "04\/05\/2020",
+            "Change in In-Person Mastercard Spending": -0.4551251105600552
+        },
+        {
+            "Row Labels": "04\/12\/2020",
+            "Change in In-Person Mastercard Spending": -0.5086946417369007
+        },
+        {
+            "Row Labels": "04\/19\/2020",
+            "Change in In-Person Mastercard Spending": -0.45649331399735094
+        },
+        {
+            "Row Labels": "04\/26\/2020",
+            "Change in In-Person Mastercard Spending": -0.4050255761858851
+        },
+        {
+            "Row Labels": "05\/03\/2020",
+            "Change in In-Person Mastercard Spending": -0.3828393326466435
+        },
+        {
+            "Row Labels": "05\/10\/2020",
+            "Change in In-Person Mastercard Spending": -0.43788574725012896
+        },
+        {
+            "Row Labels": "05\/17\/2020",
+            "Change in In-Person Mastercard Spending": -0.4369483823420245
+        },
+        {
+            "Row Labels": "05\/24\/2020",
+            "Change in In-Person Mastercard Spending": -0.4350736525258143
+        },
+        {
+            "Row Labels": "05\/31\/2020",
+            "Change in In-Person Mastercard Spending": -0.4231033279850476
+        },
+        {
+            "Row Labels": "06\/07\/2020",
+            "Change in In-Person Mastercard Spending": -0.3853583795425446
+        },
+        {
+            "Row Labels": "06\/14\/2020",
+            "Change in In-Person Mastercard Spending": -0.2841346137518017
+        },
+        {
+            "Row Labels": "06\/21\/2020",
+            "Change in In-Person Mastercard Spending": -0.310765092569635
+        },
+        {
+            "Row Labels": "06\/28\/2020",
+            "Change in In-Person Mastercard Spending": -0.2814835982974109
+        },
+        {
+            "Row Labels": "07\/05\/2020",
+            "Change in In-Person Mastercard Spending": -0.27268440058861876
+        },
+        {
+            "Row Labels": "07\/12\/2020",
+            "Change in In-Person Mastercard Spending": -0.26246071873376065
+        },
+        {
+            "Row Labels": "07\/19\/2020",
+            "Change in In-Person Mastercard Spending": -0.2561883307772499
+        },
+        {
+            "Row Labels": "07\/26\/2020",
+            "Change in In-Person Mastercard Spending": -0.1767335549952278
+        },
+        {
+            "Row Labels": "08\/02\/2020",
+            "Change in In-Person Mastercard Spending": -0.20842541617400723
+        },
+        {
+            "Row Labels": "08\/09\/2020",
+            "Change in In-Person Mastercard Spending": -0.19770685222481055
+        },
+        {
+            "Row Labels": "08\/16\/2020",
+            "Change in In-Person Mastercard Spending": -0.21439117130343766
+        },
+        {
+            "Row Labels": "08\/23\/2020",
+            "Change in In-Person Mastercard Spending": -0.1583452889407927
+        },
+        {
+            "Row Labels": "08\/30\/2020",
+            "Change in In-Person Mastercard Spending": -0.12145231398619338
+        },
+        {
+            "Row Labels": "09\/06\/2020",
+            "Change in In-Person Mastercard Spending": -0.17895179120633264
+        },
+        {
+            "Row Labels": "09\/13\/2020",
+            "Change in In-Person Mastercard Spending": -0.1435900396730483
+        },
+        {
+            "Row Labels": "09\/20\/2020",
+            "Change in In-Person Mastercard Spending": -0.18111762813686094
+        },
+        {
+            "Row Labels": "09\/27\/2020",
+            "Change in In-Person Mastercard Spending": -0.11413970327451739
+        },
+        {
+            "Row Labels": "10\/04\/2020",
+            "Change in In-Person Mastercard Spending": -0.1727259803881145
+        },
+        {
+            "Row Labels": "10\/11\/2020",
+            "Change in In-Person Mastercard Spending": -0.19370509975998118
+        },
+        {
+            "Row Labels": "10\/18\/2020",
+            "Change in In-Person Mastercard Spending": -0.12469524723969683
+        },
+        {
+            "Row Labels": "10\/25\/2020",
+            "Change in In-Person Mastercard Spending": -0.21802030666193717
+        },
+        {
+            "Row Labels": "11\/01\/2020",
+            "Change in In-Person Mastercard Spending": -0.2013243432987386
+        },
+        {
+            "Row Labels": "11\/08\/2020",
+            "Change in In-Person Mastercard Spending": -0.21709846746659633
+        },
+        {
+            "Row Labels": "11\/15\/2020",
+            "Change in In-Person Mastercard Spending": -0.24361250343870344
+        },
+        {
+            "Row Labels": "11\/22\/2020",
+            "Change in In-Person Mastercard Spending": -0.3575615315533417
+        },
+        {
+            "Row Labels": "11\/29\/2020",
+            "Change in In-Person Mastercard Spending": -0.2795487063442422
+        },
+        {
+            "Row Labels": "12\/06\/2020",
+            "Change in In-Person Mastercard Spending": -0.26511561561634334
+        },
+        {
+            "Row Labels": "12\/13\/2020",
+            "Change in In-Person Mastercard Spending": -0.2856852443140706
+        },
+        {
+            "Row Labels": "12\/20\/2020",
+            "Change in In-Person Mastercard Spending": -0.33389646387336436
+        },
+        {
+            "Row Labels": "12\/27\/2020",
+            "Change in In-Person Mastercard Spending": -0.30012803861244697
+        },
+        {
+            "Row Labels": "01\/03\/2021",
+            "Change in In-Person Mastercard Spending": -0.31532577069395507
+        },
+        {
+            "Row Labels": "01\/10\/2021",
+            "Change in In-Person Mastercard Spending": -0.30032793216427833
+        },
+        {
+            "Row Labels": "01\/17\/2021",
+            "Change in In-Person Mastercard Spending": -0.29980588007260156
+        },
+        {
+            "Row Labels": "01\/24\/2021",
+            "Change in In-Person Mastercard Spending": -0.29219051796203555
+        },
+        {
+            "Row Labels": "01\/31\/2021",
+            "Change in In-Person Mastercard Spending": -0.27125021287207685
+        },
+        {
+            "Row Labels": "02\/07\/2021",
+            "Change in In-Person Mastercard Spending": -0.25811157844584687
+        },
+        {
+            "Row Labels": "02\/14\/2021",
+            "Change in In-Person Mastercard Spending": -0.28756191484437643
+        },
+        {
+            "Row Labels": "02\/21\/2021",
+            "Change in In-Person Mastercard Spending": -0.25694326856038274
+        },
+        {
+            "Row Labels": "02\/28\/2021",
+            "Change in In-Person Mastercard Spending": -0.24719700237300746
+        },
+        {
+            "Row Labels": "03\/07\/2021",
+            "Change in In-Person Mastercard Spending": -0.19391663759638578
+        },
+        {
+            "Row Labels": "03\/14\/2021",
+            "Change in In-Person Mastercard Spending": -0.2327794373578721
+        },
+        {
+            "Row Labels": "03\/21\/2021",
+            "Change in In-Person Mastercard Spending": -0.1467747515036889
+        },
+        {
+            "Row Labels": "03\/28\/2021",
+            "Change in In-Person Mastercard Spending": -0.14528622379247524
+        },
+        {
+            "Row Labels": "04\/04\/2021",
+            "Change in In-Person Mastercard Spending": -0.16732497306046112
+        },
+        {
+            "Row Labels": "04\/11\/2021",
+            "Change in In-Person Mastercard Spending": -0.2949793241172045
+        },
+        {
+            "Row Labels": "04\/18\/2021",
+            "Change in In-Person Mastercard Spending": -0.270357484388167
+        },
+        {
+            "Row Labels": "04\/25\/2021",
+            "Change in In-Person Mastercard Spending": -0.15073768968660983
+        },
+        {
+            "Row Labels": "05\/02\/2021",
+            "Change in In-Person Mastercard Spending": -0.07024269114942217
+        },
+        {
+            "Row Labels": "05\/09\/2021",
+            "Change in In-Person Mastercard Spending": -0.12755585981639872
+        },
+        {
+            "Row Labels": "05\/16\/2021",
+            "Change in In-Person Mastercard Spending": -0.1001025182220927
+        },
+        {
+            "Row Labels": "05\/23\/2021",
+            "Change in In-Person Mastercard Spending": -0.1786626248061094
+        },
+        {
+            "Row Labels": "05\/30\/2021",
+            "Change in In-Person Mastercard Spending": -0.18809061388183101
+        },
+        {
+            "Row Labels": "06\/06\/2021",
+            "Change in In-Person Mastercard Spending": -0.05960757790632798
+        },
+        {
+            "Row Labels": "06\/13\/2021",
+            "Change in In-Person Mastercard Spending": -0.032814079104477534
+        },
+        {
+            "Row Labels": "06\/20\/2021",
+            "Change in In-Person Mastercard Spending": -0.04838248757821706
+        },
+        {
+            "Row Labels": "06\/27\/2021",
+            "Change in In-Person Mastercard Spending": -0.03162442136396304
+        },
+        {
+            "Row Labels": "07\/04\/2021",
+            "Change in In-Person Mastercard Spending": -0.14261774191122523
+        },
+        {
+            "Row Labels": "07\/11\/2021",
+            "Change in In-Person Mastercard Spending": -0.039146629197946425
+        },
+        {
+            "Row Labels": "07\/18\/2021",
+            "Change in In-Person Mastercard Spending": -0.012929522482445166
+        },
+        {
+            "Row Labels": "07\/25\/2021",
+            "Change in In-Person Mastercard Spending": -0.008023397249133368
+        },
+        {
+            "Row Labels": "08\/01\/2021",
+            "Change in In-Person Mastercard Spending": 0.01065403520552577
+        }
+    ]
+}

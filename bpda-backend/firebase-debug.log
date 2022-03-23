@@ -1,0 +1,117 @@
+[debug] [2022-03-22T20:13:55.374Z] ----------------------------------------------------------------------
+[debug] [2022-03-22T20:13:55.376Z] Command:       /usr/local/bin/node /usr/local/bin/firebase emulators:start
+[debug] [2022-03-22T20:13:55.376Z] CLI Version:   10.4.1
+[debug] [2022-03-22T20:13:55.376Z] Platform:      darwin
+[debug] [2022-03-22T20:13:55.376Z] Node Version:  v16.13.1
+[debug] [2022-03-22T20:13:55.383Z] Time:          Tue Mar 22 2022 16:13:55 GMT-0400 (Eastern Daylight Time)
+[debug] [2022-03-22T20:13:55.383Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-22T20:13:55.459Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-03-22T20:13:55.459Z] > authorizing via signed-in user (yyaustin@bu.edu)
+[info] i  emulators: Starting emulators: auth, functions, database {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: auth, functions, database"}}
+[debug] [2022-03-22T20:13:55.470Z] [hub] writing locator at /var/folders/kt/3dcnzd4j0k3btw6148wb8htr0000gn/T/hub-bpda-418c2.json
+[warn] ⚠  functions: The following emulators are not running, calls to these services from the Functions emulator will affect production: firestore, hosting, pubsub, storage {"metadata":{"emulator":{"name":"functions"},"message":"The following emulators are not running, calls to these services from the Functions emulator will affect production: \u001b[1mfirestore, hosting, pubsub, storage\u001b[22m"}}
+[info] ✔  functions: Using node@16 from host. {"metadata":{"emulator":{"name":"functions"},"message":"Using node@16 from host."}}
+[debug] [2022-03-22T20:13:55.487Z] defaultcredentials: writing to file /Users/austinwang/.config/firebase/yyaustin_bu_edu_application_default_credentials.json
+[debug] [2022-03-22T20:13:55.489Z] Setting GAC to /Users/austinwang/.config/firebase/yyaustin_bu_edu_application_default_credentials.json {"metadata":{"emulator":{"name":"functions"},"message":"Setting GAC to /Users/austinwang/.config/firebase/yyaustin_bu_edu_application_default_credentials.json"}}
+[debug] [2022-03-22T20:13:55.491Z] > refreshing access token with scopes: []
+[debug] [2022-03-22T20:13:55.491Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2022-03-22T20:13:55.672Z] <<< HTTP RESPONSE 200 {"expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","cache-control":"no-cache, no-store, max-age=0, must-revalidate","date":"Tue, 22 Mar 2022 20:13:55 GMT","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2022-03-22T20:13:55.722Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/bpda-418c2/adminSdkConfig [none]
+[debug] [2022-03-22T20:13:56.064Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/bpda-418c2/adminSdkConfig 200
+[debug] [2022-03-22T20:13:56.065Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/bpda-418c2/adminSdkConfig {"projectId":"bpda-418c2","databaseURL":"https://bpda-418c2-default-rtdb.firebaseio.com","storageBucket":"bpda-418c2.appspot.com","locationId":"us-central"}
+[debug] [2022-03-22T20:13:56.092Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/bpda-418c2 [none]
+[debug] [2022-03-22T20:13:56.423Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/bpda-418c2 200
+[debug] [2022-03-22T20:13:56.423Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/bpda-418c2 {"projectId":"bpda-418c2","projectNumber":"306516723832","displayName":"bpda","name":"projects/bpda-418c2","resources":{"hostingSite":"bpda-418c2","realtimeDatabaseInstance":"bpda-418c2-default-rtdb","storageBucket":"bpda-418c2.appspot.com","locationId":"us-central"},"state":"ACTIVE"}
+[debug] [2022-03-22T20:13:56.423Z] database rules config:  [{"instance":"bpda-418c2-default-rtdb","rules":"/Users/austinwang/Projects/bpda/bpda-backend/database.rules.json"}]
+[debug] [2022-03-22T20:13:56.428Z] Ignoring unsupported arg: projectId {"metadata":{"emulator":{"name":"database"},"message":"Ignoring unsupported arg: projectId"}}
+[debug] [2022-03-22T20:13:56.428Z] Ignoring unsupported arg: auto_download {"metadata":{"emulator":{"name":"database"},"message":"Ignoring unsupported arg: auto_download"}}
+[debug] [2022-03-22T20:13:56.428Z] Ignoring unsupported arg: rules {"metadata":{"emulator":{"name":"database"},"message":"Ignoring unsupported arg: rules"}}
+[debug] [2022-03-22T20:13:56.428Z] Starting Database Emulator with command {"binary":"java","args":["-Duser.language=en","-jar","/Users/austinwang/.cache/firebase/emulators/firebase-database-emulator-v4.7.3.jar","--host","localhost","--port",9000,"--functions_emulator_host","localhost","--functions_emulator_port",5001],"optionalArgs":["port","host","functions_emulator_port","functions_emulator_host"],"joinArgs":false} {"metadata":{"emulator":{"name":"database"},"message":"Starting Database Emulator with command {\"binary\":\"java\",\"args\":[\"-Duser.language=en\",\"-jar\",\"/Users/austinwang/.cache/firebase/emulators/firebase-database-emulator-v4.7.3.jar\",\"--host\",\"localhost\",\"--port\",9000,\"--functions_emulator_host\",\"localhost\",\"--functions_emulator_port\",5001],\"optionalArgs\":[\"port\",\"host\",\"functions_emulator_port\",\"functions_emulator_host\"],\"joinArgs\":false}"}}
+[info] i  database: Database Emulator logging to database-debug.log {"metadata":{"emulator":{"name":"database"},"message":"Database Emulator logging to \u001b[1mdatabase-debug.log\u001b[22m"}}
+[debug] [2022-03-22T20:13:57.812Z] 16:13:57.811 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+ {"metadata":{"emulator":{"name":"database"},"message":"16:13:57.811 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started\n"}}
+[debug] [2022-03-22T20:13:57.986Z] 16:13:57.986 [main] INFO com.firebase.server.forge.App$ - Listening at localhost:9000
+ {"metadata":{"emulator":{"name":"database"},"message":"16:13:57.986 [main] INFO com.firebase.server.forge.App$ - Listening at localhost:9000\n"}}
+[debug] [2022-03-22T20:14:03.779Z] Ignoring unsupported arg: auto_download {"metadata":{"emulator":{"name":"ui"},"message":"Ignoring unsupported arg: auto_download"}}
+[debug] [2022-03-22T20:14:03.779Z] Ignoring unsupported arg: port {"metadata":{"emulator":{"name":"ui"},"message":"Ignoring unsupported arg: port"}}
+[debug] [2022-03-22T20:14:03.779Z] Starting Emulator UI with command {"binary":"node","args":["/Users/austinwang/.cache/firebase/emulators/ui-v1.6.5/server.bundle.js"],"optionalArgs":[],"joinArgs":false} {"metadata":{"emulator":{"name":"ui"},"message":"Starting Emulator UI with command {\"binary\":\"node\",\"args\":[\"/Users/austinwang/.cache/firebase/emulators/ui-v1.6.5/server.bundle.js\"],\"optionalArgs\":[],\"joinArgs\":false}"}}
+[info] i  ui: Emulator UI logging to ui-debug.log {"metadata":{"emulator":{"name":"ui"},"message":"Emulator UI logging to \u001b[1mui-debug.log\u001b[22m"}}
+[debug] [2022-03-22T20:14:03.900Z] Web / API server started at localhost:4000
+ {"metadata":{"emulator":{"name":"ui"},"message":"Web / API server started at localhost:4000\n"}}
+[info] i  functions: Watching "/Users/austinwang/Projects/bpda/bpda-backend/functions" for Cloud Functions... {"metadata":{"emulator":{"name":"functions"},"message":"Watching \"/Users/austinwang/Projects/bpda/bpda-backend/functions\" for Cloud Functions..."}}
+[debug] [2022-03-22T20:14:04.052Z] Validating nodejs source
+[debug] [2022-03-22T20:14:05.495Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "firebase-functions": "^3.18.0"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
+[debug] [2022-03-22T20:14:05.496Z] Building nodejs source
+[debug] [2022-03-22T20:14:05.496Z] Analyzing nodejs backend spec
+[debug] [2022-03-22T20:14:05.644Z] >>> HTTP REQUEST PUT http://localhost:9000/.settings/rules.json?ns=bpda-418c2-default-rtdb  
+ {
+  "rules": {
+    ".read": "now < 1650168000000",  // 2022-4-17
+    ".write": "now < 1650168000000",  // 2022-4-17
+  }
+}
+[debug] [2022-03-22T20:14:05.706Z] <<< HTTP RESPONSE 200 {"content-length":"15","content-type":"application/json; charset=utf-8","access-control-allow-origin":"*","cache-control":"no-cache","x-firebase-project-id":"bpda-418c2-default-rtdb","x-firebase-project-number":"123456789","x-firebase-uuid":"46222e57-c2c2-44cc-8587-fc0f3e596b45"}
+[info] 
+┌─────────────────────────────────────────────────────────────┐
+│ ✔  All emulators ready! It is now safe to connect your app. │
+│ i  View Emulator UI at http://localhost:4000                │
+└─────────────────────────────────────────────────────────────┘
+
+┌────────────────┬────────────────┬─────────────────────────────────┐
+│ Emulator       │ Host:Port      │ View in Emulator UI             │
+├────────────────┼────────────────┼─────────────────────────────────┤
+│ Authentication │ localhost:9099 │ http://localhost:4000/auth      │
+├────────────────┼────────────────┼─────────────────────────────────┤
+│ Functions      │ localhost:5001 │ http://localhost:4000/functions │
+├────────────────┼────────────────┼─────────────────────────────────┤
+│ Database       │ localhost:9000 │ http://localhost:4000/database  │
+└────────────────┴────────────────┴─────────────────────────────────┘
+  Emulator Hub running at localhost:4400
+  Other reserved ports: 4500
+
+Issues? Report them at https://github.com/firebase/firebase-tools/issues and attach the *-debug.log files.
+ 
+[debug] [2022-03-22T21:00:33.566Z] >>> [apiv2][query] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast [none]
+[debug] [2022-03-22T21:00:33.571Z] >>> [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"eventId":"2880a22b-28bc-472b-8610-382a64e78b51","eventType":"providers/firebase.auth/eventTypes/user.create","resource":{"name":"projects/bpda-418c2","service":"firebaseauth.googleapis.com"},"params":{},"timestamp":"2022-03-22T21:00:33.559Z","data":{"uid":"lXoCSyN0AUObt8SdIPnb2JAdmj4E","email":"test@root.com","emailVerified":false,"metadata":{"creationTime":"1647982833550","lastSignInTime":"1647982833546"},"customClaims":{},"providerData":[{"providerId":"password","email":"test@root.com","federatedId":"test@root.com","rawId":"test@root.com"}]}}
+[debug] [2022-03-22T21:00:33.590Z] <<< [apiv2][status] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast 200
+[debug] [2022-03-22T21:00:33.590Z] <<< [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"status":"multicast_acknowledged"}
+[debug] [2022-03-22T21:26:07.768Z] >>> [apiv2][query] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast [none]
+[debug] [2022-03-22T21:26:07.769Z] >>> [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"eventId":"9af7697e-27f2-41a8-a611-1308ff086a44","eventType":"providers/firebase.auth/eventTypes/user.delete","resource":{"name":"projects/bpda-418c2","service":"firebaseauth.googleapis.com"},"params":{},"timestamp":"2022-03-22T21:26:07.767Z","data":{"uid":"lXoCSyN0AUObt8SdIPnb2JAdmj4E","email":"test@root.com","emailVerified":false,"metadata":{"creationTime":"1647982833550","lastSignInTime":"1647982833546"},"customClaims":{},"providerData":[{"providerId":"password","email":"test@root.com","federatedId":"test@root.com","rawId":"test@root.com"}]}}
+[debug] [2022-03-22T21:26:07.779Z] <<< [apiv2][status] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast 200
+[debug] [2022-03-22T21:26:07.779Z] <<< [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"status":"multicast_acknowledged"}
+[debug] [2022-03-22T21:26:14.860Z] >>> [apiv2][query] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast [none]
+[debug] [2022-03-22T21:26:14.860Z] >>> [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"eventId":"7d7795f2-fecf-41f8-b051-e23edda8ad4e","eventType":"providers/firebase.auth/eventTypes/user.create","resource":{"name":"projects/bpda-418c2","service":"firebaseauth.googleapis.com"},"params":{},"timestamp":"2022-03-22T21:26:14.860Z","data":{"uid":"z1NDBAOwxPFAmOx4Nwebb5aTMar9","email":"test@root.com","emailVerified":false,"metadata":{"creationTime":"1647984374859","lastSignInTime":"1647984374858"},"customClaims":{},"providerData":[{"providerId":"password","email":"test@root.com","federatedId":"test@root.com","rawId":"test@root.com"}]}}
+[debug] [2022-03-22T21:26:14.867Z] <<< [apiv2][status] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast 200
+[debug] [2022-03-22T21:26:14.868Z] <<< [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"status":"multicast_acknowledged"}
+[debug] [2022-03-22T21:27:00.924Z] >>> [apiv2][query] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast [none]
+[debug] [2022-03-22T21:27:00.924Z] >>> [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"eventId":"4115e491-2c98-49f9-a974-f48c103c93fe","eventType":"providers/firebase.auth/eventTypes/user.delete","resource":{"name":"projects/bpda-418c2","service":"firebaseauth.googleapis.com"},"params":{},"timestamp":"2022-03-22T21:27:00.924Z","data":{"uid":"z1NDBAOwxPFAmOx4Nwebb5aTMar9","email":"test@root.com","emailVerified":false,"metadata":{"creationTime":"1647984374859","lastSignInTime":"1647984374858"},"customClaims":{},"providerData":[{"providerId":"password","email":"test@root.com","federatedId":"test@root.com","rawId":"test@root.com"}]}}
+[debug] [2022-03-22T21:27:00.927Z] <<< [apiv2][status] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast 200
+[debug] [2022-03-22T21:27:00.927Z] <<< [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"status":"multicast_acknowledged"}
+[debug] [2022-03-22T21:27:07.871Z] >>> [apiv2][query] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast [none]
+[debug] [2022-03-22T21:27:07.871Z] >>> [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"eventId":"6b8e650e-fba4-4e21-8e1d-7e3fa0fc50da","eventType":"providers/firebase.auth/eventTypes/user.create","resource":{"name":"projects/bpda-418c2","service":"firebaseauth.googleapis.com"},"params":{},"timestamp":"2022-03-22T21:27:07.870Z","data":{"uid":"rJRxbY2pa5J36vVLAWfx9sG8K8ux","email":"test@root.com","emailVerified":false,"metadata":{"creationTime":"1647984427870","lastSignInTime":"1647984427870"},"customClaims":{},"providerData":[{"providerId":"password","email":"test@root.com","federatedId":"test@root.com","rawId":"test@root.com"}]}}
+[debug] [2022-03-22T21:27:07.879Z] <<< [apiv2][status] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast 200
+[debug] [2022-03-22T21:27:07.879Z] <<< [apiv2][body] POST http://localhost:5001/functions/projects/bpda-418c2/trigger_multicast {"status":"multicast_acknowledged"}

@@ -1,0 +1,836 @@
+{
+  "trips": [
+    {
+      "Row Labels": "1/4/20",
+      "Share": "1%",
+      "Average of trips": 342.5714286,
+      "FIELD4": "",
+      "FIELD5": "1/5/19",
+      "2019 trips": 339.6
+    },
+    {
+      "Row Labels": "1/11/20",
+      "Share": "23%",
+      "Average of trips": 438.1428571,
+      "FIELD4": "",
+      "FIELD5": "1/12/19",
+      "2019 trips": 357
+    },
+    {
+      "Row Labels": "1/18/20",
+      "Share": "19%",
+      "Average of trips": 438.8571429,
+      "FIELD4": "",
+      "FIELD5": "1/19/19",
+      "2019 trips": 369.7142857
+    },
+    {
+      "Row Labels": "1/25/20",
+      "Share": "25%",
+      "Average of trips": 428.5714286,
+      "FIELD4": "",
+      "FIELD5": "1/26/19",
+      "2019 trips": 342.2857143
+    },
+    {
+      "Row Labels": "2/1/20",
+      "Share": "20%",
+      "Average of trips": 434.7142857,
+      "FIELD4": "",
+      "FIELD5": "2/2/19",
+      "2019 trips": 361.5714286
+    },
+    {
+      "Row Labels": "2/8/20",
+      "Share": "13%",
+      "Average of trips": 440.2857143,
+      "FIELD4": "",
+      "FIELD5": "2/9/19",
+      "2019 trips": 391.2857143
+    },
+    {
+      "Row Labels": "2/15/20",
+      "Share": "12%",
+      "Average of trips": 442,
+      "FIELD4": "",
+      "FIELD5": "2/16/19",
+      "2019 trips": 394.7142857
+    },
+    {
+      "Row Labels": "2/22/20",
+      "Share": "12%",
+      "Average of trips": 384.7142857,
+      "FIELD4": "",
+      "FIELD5": "2/23/19",
+      "2019 trips": 344.8571429
+    },
+    {
+      "Row Labels": "2/29/20",
+      "Share": "28%",
+      "Average of trips": 445.4285714,
+      "FIELD4": "",
+      "FIELD5": "3/2/19",
+      "2019 trips": 348.5714286
+    },
+    {
+      "Row Labels": "3/7/20",
+      "Share": "19%",
+      "Average of trips": 460.4285714,
+      "FIELD4": "",
+      "FIELD5": "3/9/19",
+      "2019 trips": 387.2857143
+    },
+    {
+      "Row Labels": "3/14/20",
+      "Share": "-4%",
+      "Average of trips": 410.8571429,
+      "FIELD4": "",
+      "FIELD5": "3/16/19",
+      "2019 trips": 429.5714286
+    },
+    {
+      "Row Labels": "3/21/20",
+      "Share": "-52%",
+      "Average of trips": 206,
+      "FIELD4": "",
+      "FIELD5": "3/23/19",
+      "2019 trips": 431.2857143
+    },
+    {
+      "Row Labels": "3/28/20",
+      "Share": "-70%",
+      "Average of trips": 137.5714286,
+      "FIELD4": "",
+      "FIELD5": "3/30/19",
+      "2019 trips": 463.7142857
+    },
+    {
+      "Row Labels": "4/4/20",
+      "Share": "-68%",
+      "Average of trips": 143.5714286,
+      "FIELD4": "",
+      "FIELD5": "4/6/19",
+      "2019 trips": 448.4285714
+    },
+    {
+      "Row Labels": "4/11/20",
+      "Share": "-69%",
+      "Average of trips": 141.4285714,
+      "FIELD4": "",
+      "FIELD5": "4/13/19",
+      "2019 trips": 455.8571429
+    },
+    {
+      "Row Labels": "4/18/20",
+      "Share": "-69%",
+      "Average of trips": 132.5714286,
+      "FIELD4": "",
+      "FIELD5": "4/20/19",
+      "2019 trips": 424.7142857
+    },
+    {
+      "Row Labels": "4/25/20",
+      "Share": "-71%",
+      "Average of trips": 135.7142857,
+      "FIELD4": "",
+      "FIELD5": "4/27/19",
+      "2019 trips": 468.8571429
+    },
+    {
+      "Row Labels": "5/2/20",
+      "Share": "-68%",
+      "Average of trips": 147.2857143,
+      "FIELD4": "",
+      "FIELD5": "5/4/19",
+      "2019 trips": 453.7142857
+    },
+    {
+      "Row Labels": "5/9/20",
+      "Share": "-66%",
+      "Average of trips": 161.4285714,
+      "FIELD4": "",
+      "FIELD5": "5/11/19",
+      "2019 trips": 478.7142857
+    },
+    {
+      "Row Labels": "5/16/20",
+      "Share": "-68%",
+      "Average of trips": 153.5714286,
+      "FIELD4": "",
+      "FIELD5": "5/18/19",
+      "2019 trips": 476.5714286
+    },
+    {
+      "Row Labels": "5/23/20",
+      "Share": "-63%",
+      "Average of trips": 180,
+      "FIELD4": "",
+      "FIELD5": "5/25/19",
+      "2019 trips": 484.8571429
+    },
+    {
+      "Row Labels": "5/30/20",
+      "Share": "-59%",
+      "Average of trips": 194.2857143,
+      "FIELD4": "",
+      "FIELD5": "6/1/19",
+      "2019 trips": 468.8571429
+    },
+    {
+      "Row Labels": "6/6/20",
+      "Share": "-57%",
+      "Average of trips": 224.5714286,
+      "FIELD4": "",
+      "FIELD5": "6/8/19",
+      "2019 trips": 522.4285714
+    },
+    {
+      "Row Labels": "6/13/20",
+      "Share": "-54%",
+      "Average of trips": 221.4285714,
+      "FIELD4": "",
+      "FIELD5": "6/15/19",
+      "2019 trips": 480.5714286
+    },
+    {
+      "Row Labels": "6/20/20",
+      "Share": "-54%",
+      "Average of trips": 212.5714286,
+      "FIELD4": "",
+      "FIELD5": "6/22/19",
+      "2019 trips": 459.7142857
+    },
+    {
+      "Row Labels": "6/27/20",
+      "Share": "-51%",
+      "Average of trips": 228.2857143,
+      "FIELD4": "",
+      "FIELD5": "6/29/19",
+      "2019 trips": 462.7142857
+    },
+    {
+      "Row Labels": "7/4/20",
+      "Share": "-50%",
+      "Average of trips": 209.4285714,
+      "FIELD4": "",
+      "FIELD5": "7/6/19",
+      "2019 trips": 417.5714286
+    },
+    {
+      "Row Labels": "7/11/20",
+      "Share": "-54%",
+      "Average of trips": 226.7142857,
+      "FIELD4": "",
+      "FIELD5": "7/13/19",
+      "2019 trips": 492.8571429
+    },
+    {
+      "Row Labels": "7/18/20",
+      "Share": "-54%",
+      "Average of trips": 227.2857143,
+      "FIELD4": "",
+      "FIELD5": "7/20/19",
+      "2019 trips": 498.8571429
+    },
+    {
+      "Row Labels": "7/25/20",
+      "Share": "-51%",
+      "Average of trips": 239.8571429,
+      "FIELD4": "",
+      "FIELD5": "7/27/19",
+      "2019 trips": 491.1428571
+    },
+    {
+      "Row Labels": "8/1/20",
+      "Share": "-47%",
+      "Average of trips": 258.4285714,
+      "FIELD4": "",
+      "FIELD5": "8/3/19",
+      "2019 trips": 488.2857143
+    },
+    {
+      "Row Labels": "8/8/20",
+      "Share": "-45%",
+      "Average of trips": 266,
+      "FIELD4": "",
+      "FIELD5": "8/10/19",
+      "2019 trips": 485.8571429
+    },
+    {
+      "Row Labels": "8/15/20",
+      "Share": "-47%",
+      "Average of trips": 252.4285714,
+      "FIELD4": "",
+      "FIELD5": "8/17/19",
+      "2019 trips": 472.2857143
+    },
+    {
+      "Row Labels": "8/22/20",
+      "Share": "-44%",
+      "Average of trips": 258.8571429,
+      "FIELD4": "",
+      "FIELD5": "8/24/19",
+      "2019 trips": 462
+    },
+    {
+      "Row Labels": "8/29/20",
+      "Share": "-43%",
+      "Average of trips": 270.8571429,
+      "FIELD4": "",
+      "FIELD5": "8/31/19",
+      "2019 trips": 477.5714286
+    },
+    {
+      "Row Labels": "9/5/20",
+      "Share": "-39%",
+      "Average of trips": 297.2857143,
+      "FIELD4": "",
+      "FIELD5": "9/7/19",
+      "2019 trips": 484.5714286
+    },
+    {
+      "Row Labels": "9/12/20",
+      "Share": "-50%",
+      "Average of trips": 278.1428571,
+      "FIELD4": "",
+      "FIELD5": "9/14/19",
+      "2019 trips": 551.2857143
+    },
+    {
+      "Row Labels": "9/19/20",
+      "Share": "-46%",
+      "Average of trips": 281.1428571,
+      "FIELD4": "",
+      "FIELD5": "9/21/19",
+      "2019 trips": 524.4285714
+    },
+    {
+      "Row Labels": "9/26/20",
+      "Share": "-45%",
+      "Average of trips": 290.1428571,
+      "FIELD4": "",
+      "FIELD5": "9/28/19",
+      "2019 trips": 529.4285714
+    },
+    {
+      "Row Labels": "10/3/20",
+      "Share": "-43%",
+      "Average of trips": 282,
+      "FIELD4": "",
+      "FIELD5": "10/5/19",
+      "2019 trips": 498.8571429
+    },
+    {
+      "Row Labels": "10/10/20",
+      "Share": "-40%",
+      "Average of trips": 279.8571429,
+      "FIELD4": "",
+      "FIELD5": "10/12/19",
+      "2019 trips": 463.5714286
+    },
+    {
+      "Row Labels": "10/17/20",
+      "Share": "-42%",
+      "Average of trips": 264,
+      "FIELD4": "",
+      "FIELD5": "10/19/19",
+      "2019 trips": 457.2857143
+    },
+    {
+      "Row Labels": "10/24/20",
+      "Share": "-41%",
+      "Average of trips": 264.8571429,
+      "FIELD4": "",
+      "FIELD5": "10/26/19",
+      "2019 trips": 447.5714286
+    },
+    {
+      "Row Labels": "10/31/20",
+      "Share": "-49%",
+      "Average of trips": 241.5714286,
+      "FIELD4": "",
+      "FIELD5": "11/2/19",
+      "2019 trips": 473.8571429
+    },
+    {
+      "Row Labels": "11/7/20",
+      "Share": "-49%",
+      "Average of trips": 231.2857143,
+      "FIELD4": "",
+      "FIELD5": "11/9/19",
+      "2019 trips": 456.8571429
+    },
+    {
+      "Row Labels": "11/14/20",
+      "Share": "-52%",
+      "Average of trips": 218.2857143,
+      "FIELD4": "",
+      "FIELD5": "11/16/19",
+      "2019 trips": 456.8571429
+    },
+    {
+      "Row Labels": "11/21/20",
+      "Share": "-50%",
+      "Average of trips": 212.2857143,
+      "FIELD4": "",
+      "FIELD5": "11/23/19",
+      "2019 trips": 423.5714286
+    },
+    {
+      "Row Labels": "11/28/20",
+      "Share": "-53%",
+      "Average of trips": 181.8571429,
+      "FIELD4": "",
+      "FIELD5": "11/30/19",
+      "2019 trips": 386.8571429
+    },
+    {
+      "Row Labels": "12/5/20",
+      "Share": "-54%",
+      "Average of trips": 197.5714286,
+      "FIELD4": "",
+      "FIELD5": "12/7/19",
+      "2019 trips": 427
+    },
+    {
+      "Row Labels": "12/12/20",
+      "Share": "-55%",
+      "Average of trips": 204,
+      "FIELD4": "",
+      "FIELD5": "12/14/19",
+      "2019 trips": 455
+    },
+    {
+      "Row Labels": "12/19/20",
+      "Share": "-57%",
+      "Average of trips": 189,
+      "FIELD4": "",
+      "FIELD5": "12/21/19",
+      "2019 trips": 435.7142857
+    },
+    {
+      "Row Labels": "12/26/20",
+      "Share": "-53%",
+      "Average of trips": 163.4285714,
+      "FIELD4": "",
+      "FIELD5": "12/28/19",
+      "2019 trips": 345.5714286
+    },
+    {
+      "Row Labels": "1/2/21",
+      "Share": "-52%",
+      "Average of trips": 163.5714286,
+      "FIELD4": "",
+      "FIELD5": "1/5/19",
+      "2019 trips": 339.6
+    },
+    {
+      "Row Labels": "1/9/21",
+      "Share": "-50%",
+      "Average of trips": 179.8571429,
+      "FIELD4": "",
+      "FIELD5": "1/12/19",
+      "2019 trips": 357
+    },
+    {
+      "Row Labels": "1/16/21",
+      "Share": "-51%",
+      "Average of trips": 183,
+      "FIELD4": "",
+      "FIELD5": "1/19/19",
+      "2019 trips": 369.7142857
+    },
+    {
+      "Row Labels": "1/23/21",
+      "Share": "-43%",
+      "Average of trips": 194.7142857,
+      "FIELD4": "",
+      "FIELD5": "1/26/19",
+      "2019 trips": 342.2857143
+    },
+    {
+      "Row Labels": "1/30/21",
+      "Share": "-42%",
+      "Average of trips": 208.5714286,
+      "FIELD4": "",
+      "FIELD5": "2/2/19",
+      "2019 trips": 361.5714286
+    },
+    {
+      "Row Labels": "2/6/21",
+      "Share": "-49%",
+      "Average of trips": 198.5714286,
+      "FIELD4": "",
+      "FIELD5": "2/9/19",
+      "2019 trips": 391.2857143
+    },
+    {
+      "Row Labels": "2/13/21",
+      "Share": "-45%",
+      "Average of trips": 215.1428571,
+      "FIELD4": "",
+      "FIELD5": "2/16/19",
+      "2019 trips": 394.7142857
+    },
+    {
+      "Row Labels": "2/20/21",
+      "Share": "-46%",
+      "Average of trips": 185.7142857,
+      "FIELD4": "",
+      "FIELD5": "2/23/19",
+      "2019 trips": 344.8571429
+    },
+    {
+      "Row Labels": "2/27/21",
+      "Share": "-32%",
+      "Average of trips": 236.4285714,
+      "FIELD4": "",
+      "FIELD5": "3/2/19",
+      "2019 trips": 348.5714286
+    },
+    {
+      "Row Labels": "3/6/21",
+      "Share": "-38%",
+      "Average of trips": 241.2857143,
+      "FIELD4": "",
+      "FIELD5": "3/9/19",
+      "2019 trips": 387.2857143
+    },
+    {
+      "Row Labels": "3/13/21",
+      "Share": "-37%",
+      "Average of trips": 271.4285714,
+      "FIELD4": "",
+      "FIELD5": "3/16/19",
+      "2019 trips": 429.5714286
+    },
+    {
+      "Row Labels": "3/20/21",
+      "Share": "-44%",
+      "Average of trips": 242.5714286,
+      "FIELD4": "",
+      "FIELD5": "3/23/19",
+      "2019 trips": 431.2857143
+    },
+    {
+      "Row Labels": "3/27/21",
+      "Share": "-46%",
+      "Average of trips": 249.1428571,
+      "FIELD4": "",
+      "FIELD5": "3/30/19",
+      "2019 trips": 463.7142857
+    },
+    {
+      "Row Labels": "4/3/21",
+      "Share": "-43%",
+      "Average of trips": 256.4285714,
+      "FIELD4": "",
+      "FIELD5": "4/6/19",
+      "2019 trips": 448.4285714
+    },
+    {
+      "Row Labels": "4/10/21",
+      "Share": "-46%",
+      "Average of trips": 246.4285714,
+      "FIELD4": "",
+      "FIELD5": "4/13/19",
+      "2019 trips": 455.8571429
+    },
+    {
+      "Row Labels": "4/17/21",
+      "Share": "-46%",
+      "Average of trips": 228.1428571,
+      "FIELD4": "",
+      "FIELD5": "4/20/19",
+      "2019 trips": 424.7142857
+    },
+    {
+      "Row Labels": "4/24/21",
+      "Share": "-51%",
+      "Average of trips": 229,
+      "FIELD4": "",
+      "FIELD5": "4/27/19",
+      "2019 trips": 468.8571429
+    },
+    {
+      "Row Labels": "5/1/21",
+      "Share": "-42%",
+      "Average of trips": 261.7142857,
+      "FIELD4": "",
+      "FIELD5": "5/4/19",
+      "2019 trips": 453.7142857
+    },
+    {
+      "Row Labels": "5/8/21",
+      "Share": "-46%",
+      "Average of trips": 259.2857143,
+      "FIELD4": "",
+      "FIELD5": "5/11/19",
+      "2019 trips": 478.7142857
+    },
+    {
+      "Row Labels": "5/15/21",
+      "Share": "-41%",
+      "Average of trips": 280.2857143,
+      "FIELD4": "",
+      "FIELD5": "5/18/19",
+      "2019 trips": 476.5714286
+    },
+    {
+      "Row Labels": "5/22/21",
+      "Share": "-42%",
+      "Average of trips": 280.7142857,
+      "FIELD4": "",
+      "FIELD5": "5/25/19",
+      "2019 trips": 484.8571429
+    },
+    {
+      "Row Labels": "5/29/21",
+      "Share": "-40%",
+      "Average of trips": 279.1428571,
+      "FIELD4": "",
+      "FIELD5": "6/1/19",
+      "2019 trips": 468.8571429
+    },
+    {
+      "Row Labels": "6/5/21",
+      "Share": "-45%",
+      "Average of trips": 287.1428571,
+      "FIELD4": "",
+      "FIELD5": "6/8/19",
+      "2019 trips": 522.4285714
+    },
+    {
+      "Row Labels": "6/12/21",
+      "Share": "-41%",
+      "Average of trips": 284.1428571,
+      "FIELD4": "",
+      "FIELD5": "6/15/19",
+      "2019 trips": 480.5714286
+    },
+    {
+      "Row Labels": "6/19/21",
+      "Share": "-40%",
+      "Average of trips": 274,
+      "FIELD4": "",
+      "FIELD5": "6/22/19",
+      "2019 trips": 459.7142857
+    },
+    {
+      "Row Labels": "6/26/21",
+      "Share": "-40%",
+      "Average of trips": 279.4285714,
+      "FIELD4": "",
+      "FIELD5": "6/29/19",
+      "2019 trips": 462.7142857
+    },
+    {
+      "Row Labels": "7/3/21",
+      "Share": "-38%",
+      "Average of trips": 260.4285714,
+      "FIELD4": "",
+      "FIELD5": "7/6/19",
+      "2019 trips": 417.5714286
+    },
+    {
+      "Row Labels": "7/10/21",
+      "Share": "-49%",
+      "Average of trips": 253.4285714,
+      "FIELD4": "",
+      "FIELD5": "7/13/19",
+      "2019 trips": 492.8571429
+    },
+    {
+      "Row Labels": "7/17/21",
+      "Share": "-40%",
+      "Average of trips": 300.2857143,
+      "FIELD4": "",
+      "FIELD5": "7/20/19",
+      "2019 trips": 498.8571429
+    },
+    {
+      "Row Labels": "7/24/21",
+      "Share": "-40%",
+      "Average of trips": 296.1428571,
+      "FIELD4": "",
+      "FIELD5": "7/27/19",
+      "2019 trips": 491.1428571
+    },
+    {
+      "Row Labels": "7/31/21",
+      "Share": "-43%",
+      "Average of trips": 280.5714286,
+      "FIELD4": "",
+      "FIELD5": "8/3/19",
+      "2019 trips": 488.2857143
+    },
+    {
+      "Row Labels": "8/7/21",
+      "Share": "-40%",
+      "Average of trips": 292,
+      "FIELD4": "",
+      "FIELD5": "8/10/19",
+      "2019 trips": 485.8571429
+    },
+    {
+      "Row Labels": "8/14/21",
+      "Share": "-39%",
+      "Average of trips": 288.7142857,
+      "FIELD4": "",
+      "FIELD5": "8/17/19",
+      "2019 trips": 472.2857143
+    },
+    {
+      "Row Labels": "8/21/21",
+      "Share": "-41%",
+      "Average of trips": 271.5714286,
+      "FIELD4": "",
+      "FIELD5": "8/24/19",
+      "2019 trips": 462
+    },
+    {
+      "Row Labels": "8/28/21",
+      "Share": "-45%",
+      "Average of trips": 264.2857143,
+      "FIELD4": "",
+      "FIELD5": "8/31/19",
+      "2019 trips": 477.5714286
+    },
+    {
+      "Row Labels": "9/4/21",
+      "Share": "-31%",
+      "Average of trips": 335.1428571,
+      "FIELD4": "",
+      "FIELD5": "9/7/19",
+      "2019 trips": 484.5714286
+    },
+    {
+      "Row Labels": "9/11/21",
+      "Share": "-40%",
+      "Average of trips": 332.8571429,
+      "FIELD4": "",
+      "FIELD5": "9/14/19",
+      "2019 trips": 551.2857143
+    },
+    {
+      "Row Labels": "9/18/21",
+      "Share": "-32%",
+      "Average of trips": 354.2857143,
+      "FIELD4": "",
+      "FIELD5": "9/21/19",
+      "2019 trips": 524.4285714
+    },
+    {
+      "Row Labels": "9/25/21",
+      "Share": "-33%",
+      "Average of trips": 356,
+      "FIELD4": "",
+      "FIELD5": "9/28/19",
+      "2019 trips": 529.4285714
+    },
+    {
+      "Row Labels": "10/2/21",
+      "Share": "-27%",
+      "Average of trips": 365.5714286,
+      "FIELD4": "",
+      "FIELD5": "10/5/19",
+      "2019 trips": 498.8571429
+    },
+    {
+      "Row Labels": "10/9/21",
+      "Share": "-22%",
+      "Average of trips": 361.2857143,
+      "FIELD4": "",
+      "FIELD5": "10/12/19",
+      "2019 trips": 463.5714286
+    },
+    {
+      "Row Labels": "10/16/21",
+      "Share": "-28%",
+      "Average of trips": 331.5,
+      "FIELD4": "",
+      "FIELD5": "10/19/19",
+      "2019 trips": 457.2857143
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "10/26/19",
+      "2019 trips": 447.5714286
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "11/2/19",
+      "2019 trips": 473.8571429
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "11/9/19",
+      "2019 trips": 456.8571429
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "11/16/19",
+      "2019 trips": 456.8571429
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "11/23/19",
+      "2019 trips": 423.5714286
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "11/30/19",
+      "2019 trips": 386.8571429
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "12/7/19",
+      "2019 trips": 427
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "12/14/19",
+      "2019 trips": 455
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "12/21/19",
+      "2019 trips": 435.7142857
+    },
+    {
+      "Row Labels": "",
+      "Share": "",
+      "Average of trips": null,
+      "FIELD4": "",
+      "FIELD5": "12/28/19",
+      "2019 trips": 345.5714286
+    }
+  ]
+}

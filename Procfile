@@ -1,0 +1,1 @@
+web: cd bpda-backend && npm start
