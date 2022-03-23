@@ -6,7 +6,7 @@ const authRouter = require('express').Router()
 const auth = config.auth
 
 // routers -> only for testing this router
-authRouter.post('/test', async (req, res) => {
+authRouter.get('/test', async (req, res) => {
     if (auth.currentUser) {
         res.json({ user: auth.currentUser })
     } else {
