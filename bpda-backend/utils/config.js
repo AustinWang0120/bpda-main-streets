@@ -3,6 +3,7 @@ const { connectDatabaseEmulator, getDatabase, ref } = require('firebase/database
 const { connectAuthEmulator, getAuth } = require('firebase/auth')
 
 const PORT = process.env.PORT
+console.log(process.env.APIKEY)
 const FIREBASECONFIG = {
     apiKey: process.env.APIKEY,
     authDomain: process.env.AUTHDOMAIN,

@@ -1,3 +1,4 @@
+require('dotenv').config()
 const config = require('./utils/config')
 const { get, push, child, ref, update, remove} = require('firebase/database')
 
@@ -16,6 +17,7 @@ const init = async () => {
         await update(ref(database), updates)
         console.log(`${FIELD1} has been added`)
     }
+    console.log('finish')
 }
 
 const getAll = async () => {

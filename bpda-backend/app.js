@@ -3,20 +3,22 @@ const config = require('./utils/config')
 const express = require('express')
 const app = express()
 const cors = require('cors')
-const authRouter = require('./controllers/auth')
 const usersRouter = require('./controllers/users')
 const mapsRouter = require('./controllers/maps')
 const dataRouter = require('./controllers/data')
 
-// connect to database
-// handle by config
+// connect to firebase in config.js
 
 // middlewares
 app.use(cors())
 app.use(express.json())
+app.use(express.static('build'))
 
 // routers
-app.use('/api/auth', authRouter)
+// usersRouter: getUser, createUser, updateUser, removeUser
+// mapsRouter: boundary, districts, getBusiness, createBusiness, updateBusiness, removeBusiness
+// tripsRouter: getDataset, updateDataset
+// spendingRouter: getDataset, updateDataset
 app.use('/api/users', usersRouter)
 app.use('/api/maps', mapsRouter)
 app.use('/api/data', dataRouter)
