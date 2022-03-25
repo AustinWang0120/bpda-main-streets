@@ -1,2 +1,5 @@
 12:54:10.540 [NamespaceSystem-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
 12:54:10.705 [main] INFO com.firebase.server.forge.App$ - Listening at localhost:9000
+18:16:35.150 [NamespaceSystem-akka.actor.default-dispatcher-50] WARN com.firebase.util.stats.StatsCollection - Tried to add a negative data point: bpda-418c2-default-rtdb.b120cb90-cb55-40c7-975d-bb44b4af47ae.123456789.latency.all
+18:16:35.153 [NamespaceSystem-akka.actor.default-dispatcher-50] WARN com.firebase.util.stats.StatsCollection - Tried to add a negative data point: bpda-418c2-default-rtdb.b120cb90-cb55-40c7-975d-bb44b4af47ae.123456789.latency.realtime_listen
+18:16:35.153 [NamespaceSystem-akka.actor.default-dispatcher-50] WARN com.firebase.util.stats.StatsCollection - Tried to add a negative data point: latency.realtime_listen
